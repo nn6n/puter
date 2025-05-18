@@ -10,11 +10,11 @@
   "license": "AGPL-3.0-only",
   "type": "module",
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^24.1.0",
+    "@rollup/plugin-commonjs": "^26.0.0",
     "@rollup/plugin-node-resolve": "^15.0.2",
     "@rollup/plugin-replace": "^5.0.2",
-    "mocha": "^10.6.0",
-    "rollup": "^3.21.4",
+    "mocha": "^11.2.2",
+    "rollup": "^3.29.5",
     "rollup-plugin-copy": "^3.4.0"
   },
   "dependencies": {
